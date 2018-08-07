@@ -1,0 +1,9 @@
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\bin\Debug\netcoreapp1.1\WongaReceive.deps.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\bin\Debug\netcoreapp1.1\WongaReceive.runtimeconfig.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\bin\Debug\netcoreapp1.1\WongaReceive.runtimeconfig.dev.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\bin\Debug\netcoreapp1.1\WongaReceive.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\bin\Debug\netcoreapp1.1\WongaReceive.pdb
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\obj\Debug\netcoreapp1.1\WongaReceive.csprojResolveAssemblyReference.cache
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\obj\Debug\netcoreapp1.1\WongaReceive.AssemblyInfo.cs
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\obj\Debug\netcoreapp1.1\WongaReceive.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaReceive\obj\Debug\netcoreapp1.1\WongaReceive.pdb

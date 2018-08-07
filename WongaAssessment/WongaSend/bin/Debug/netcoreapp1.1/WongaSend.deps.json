@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "2665916c6e9820a54d2aa1ea5ab954af204919a1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "wongasend/1.0.0": {
+        "dependencies": {
+          "CommonLib": "1.0.0"
+        },
+        "runtime": {
+          "WongaSend.dll": {}
+        }
+      },
+      "commonlib/1.0.0": {
+        "dependencies": {
+          "RabbitMQ.Client": "5.1.0"
+        },
+        "runtime": {
+          "lib/netcoreapp1.1/CommonLib.dll": {}
+        }
+      },
+      "rabbitmq.client/5.1.0": {
+        "runtime": {
+          "lib/netstandard1.5/RabbitMQ.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wongasend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "commonlib/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S+dNpooCCppjZPDLLMRnk3VK+gGZf1BwyrkKwS9eC5wTOJ9Ujep+7vFJutvKOf4+UpQe0/9xLgqGUF15OZ1zVA==",
+      "path": "commonlib/1.0.0",
+      "hashPath": "commonlib.1.0.0.nupkg.sha512"
+    },
+    "rabbitmq.client/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oMXzDw2NLDHYlAYVJs5AHZDGkTsuzmaAPNfHjgkPqq3VfnxAXgsJ643ts6xsdXJftpwPbDAwN5YP65lHm+MiNg==",
+      "path": "rabbitmq.client/5.1.0",
+      "hashPath": "rabbitmq.client.5.1.0.nupkg.sha512"
+    }
+  }
+}

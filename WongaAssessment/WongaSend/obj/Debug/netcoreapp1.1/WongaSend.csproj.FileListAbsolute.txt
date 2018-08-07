@@ -1,0 +1,9 @@
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\bin\Debug\netcoreapp1.1\WongaSend.deps.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\bin\Debug\netcoreapp1.1\WongaSend.runtimeconfig.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\bin\Debug\netcoreapp1.1\WongaSend.runtimeconfig.dev.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\bin\Debug\netcoreapp1.1\WongaSend.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\bin\Debug\netcoreapp1.1\WongaSend.pdb
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\obj\Debug\netcoreapp1.1\WongaSend.AssemblyInfo.cs
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\obj\Debug\netcoreapp1.1\WongaSend.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\obj\Debug\netcoreapp1.1\WongaSend.pdb
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaSend\obj\Debug\netcoreapp1.1\WongaSend.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\WongaXUnitTest.deps.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\WongaXUnitTest.runtimeconfig.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\WongaXUnitTest.runtimeconfig.dev.json
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\WongaXUnitTest.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\bin\Debug\netcoreapp1.1\WongaXUnitTest.pdb
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\obj\Debug\netcoreapp1.1\WongaXUnitTest.csprojResolveAssemblyReference.cache
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\obj\Debug\netcoreapp1.1\WongaXUnitTest.AssemblyInfo.cs
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\obj\Debug\netcoreapp1.1\WongaXUnitTest.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\WongaXUnitTest\obj\Debug\netcoreapp1.1\WongaXUnitTest.pdb

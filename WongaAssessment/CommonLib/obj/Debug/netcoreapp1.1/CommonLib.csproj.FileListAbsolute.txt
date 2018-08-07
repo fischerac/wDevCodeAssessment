@@ -1,0 +1,7 @@
+C:\Working\Development\Training\Wonga\WongaAssessment\CommonLib\bin\Debug\netcoreapp1.1\CommonLib.deps.json
+C:\Working\Development\Training\Wonga\WongaAssessment\CommonLib\bin\Debug\netcoreapp1.1\CommonLib.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\CommonLib\bin\Debug\netcoreapp1.1\CommonLib.pdb
+C:\Working\Development\Training\Wonga\WongaAssessment\CommonLib\obj\Debug\netcoreapp1.1\CommonLib.csprojResolveAssemblyReference.cache
+C:\Working\Development\Training\Wonga\WongaAssessment\CommonLib\obj\Debug\netcoreapp1.1\CommonLib.AssemblyInfo.cs
+C:\Working\Development\Training\Wonga\WongaAssessment\CommonLib\obj\Debug\netcoreapp1.1\CommonLib.dll
+C:\Working\Development\Training\Wonga\WongaAssessment\CommonLib\obj\Debug\netcoreapp1.1\CommonLib.pdb

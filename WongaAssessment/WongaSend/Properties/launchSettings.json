@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WongaSend": {
+      "commandName": "Project",
+      "commandLineArgs": "Andre"
+    }
+  }
+}
